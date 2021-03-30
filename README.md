@@ -44,6 +44,8 @@ My biggest projects include creating a webserver from scratch, creating my own s
 ![](https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Assembly%20-007AAC.svg?&style=for-the-badge&logo=assemblyscript&logoColor=white)
+![](https://img.shields.io/badge/Bash%20-4EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/Html%20-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 
 <br>
 
@@ -53,6 +55,7 @@ My biggest projects include creating a webserver from scratch, creating my own s
 ![](https://img.shields.io/badge/Wordpress%20-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/Github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Photoshop%20-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![](https://img.shields.io/badge/Slack%20-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 
 <!--
 **novan-ve/novan-ve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
