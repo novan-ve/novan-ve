@@ -7,10 +7,6 @@ My biggest projects include creating a webserver from scratch, creating my own s
 
 <br>
 
-[![novan-ve's 42 stats](https://badge42.herokuapp.com/api/stats/novan-ve)](https://github.com/JaeSeoKim/badge42)
-
-<br>
-
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/novan-ve/webserv">
