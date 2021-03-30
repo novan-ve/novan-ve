@@ -1,4 +1,4 @@
-[![Novan-ve's GitHub Banner](./assets/GitHubHeader.png)]
+![Novan-ve's GitHub Banner](./assets/GitHubHeader.png)
 
 ### Hey there 👋
 
