@@ -40,19 +40,19 @@ My biggest projects include creating a webserver from scratch, creating my own s
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Assembly-informational?style=for-the-badge&logo=assemblyscript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Assembly%20-007AAC.svg?&style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 <br>
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=for-the-badge&logo=nginx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Wordpress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Docker%20-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/NGINX%20-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes%20-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/Wordpress%20-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white)
+![](https://img.shields.io/badge/Github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Photoshop%20-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 <!--
 **novan-ve/novan-ve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
