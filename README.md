@@ -40,8 +40,8 @@ My biggest projects include creating a webserver from scratch, creating my own s
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Assembly%20-007AAC.svg?&style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![](https://img.shields.io/badge/Bash%20-4EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
