@@ -5,6 +5,7 @@
 I'm Noel, a passionate student at Codam. I like to work on projects related to programming and system administration.
 My biggest projects include creating a webserver from scratch, creating my own shell based on bash and setting up a fully functional Kubernetes cluster with one simple script. I spend my free time tinkering with linux and doing CTF (Capture The Flag) challenges.
 
+<br>
 
 [![novan-ve's 42 stats](https://badge42.herokuapp.com/api/stats/novan-ve)](https://github.com/JaeSeoKim/badge42)
 
