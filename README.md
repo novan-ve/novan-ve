@@ -1,14 +1,33 @@
 ![Novan-ve's GitHub Banner](./assets/GitHubHeader.png)
 
-### Hey there 👋
+---
 
-I'm Noël, a passionate student at Codam. I like to work on projects related to programming and system administration.
+### :man_technologist: About Me :
+<!-- ### Hey there 👋 -->
+
+I'm Noël, a passionate student at Codam. 
 My biggest projects include creating a webserver from scratch, creating my own shell based on bash and setting up a fully functional Kubernetes cluster with one simple script. I spend my free time tinkering with linux and doing CTF (Capture The Flag) challenges.
 
-<br>
+---
 
-## 📌 Pinned Repositories
+### :hammer_and_wrench: Languages and Tools :
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_assembly.svg" title="Assembly" alt="Assembly" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+</div>
+
+---
+
+### 📌 Pinned Repositories
 
 <a href="https://github.com/novan-ve/ft_ssl">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=novan-ve&repo=ft_ssl&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=15243C" />
@@ -28,9 +47,9 @@ My biggest projects include creating a webserver from scratch, creating my own s
 
 <br>
 
-## 📈 GitHub Stats
+---
 
-<br>
+### 📈 GitHub Stats
 
 <a href="https://github.com/novan-ve">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=novan-ve&include_all_commits=true&hide=stars,contribs&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=15243C" alt="Novan-ve's GitHub Stats" />
@@ -41,8 +60,10 @@ My biggest projects include creating a webserver from scratch, creating my own s
 
 <br>
 <br>
+<!--
+---
 
-## 💼 Skills
+### 💼 Skills
 
 ![](https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -60,7 +81,7 @@ My biggest projects include creating a webserver from scratch, creating my own s
 ![](https://img.shields.io/badge/Github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Photoshop%20-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![](https://img.shields.io/badge/Slack%20-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
-
+-->
 <!--
 **novan-ve/novan-ve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
