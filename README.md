@@ -5,8 +5,10 @@
 ### :man_technologist: About Me :
 <!-- ### Hey there 👋 -->
 
-I'm Noël, a passionate student at Codam. 
-My biggest projects include creating a webserver from scratch, creating my own shell based on bash and setting up a fully functional Kubernetes cluster with one simple script. I spend my free time tinkering with linux and doing CTF (Capture The Flag) challenges.
+I am a software developer from Amsterdam.
+- :telescope: I’m studying information technology at Codam and specialize in cybersecurity.
+- :zap: In my free time, I tinker with linux and do CTF (Capture The Flag) challenges.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noel-van-veldhuisen) [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:noelvanveldhuisen@protonmail.com)
 
 ---
 
