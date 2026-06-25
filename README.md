@@ -53,10 +53,6 @@ I am a security consultant from Amsterdam.
 ---
 
 ### 📈 GitHub Stats
-
-<a href="https://github.com/novan-ve">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=novan-ve&include_all_commits=true&hide=stars,contribs&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=15243C" alt="Novan-ve's GitHub Stats" />
-</a>
 <a href="https://github.com/novan-ve">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novan-ve&layout=compact&hide=swift,roff&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=15243C" />
 </a>
