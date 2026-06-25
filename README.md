@@ -5,8 +5,8 @@
 ### :man_technologist: About Me :
 <!-- ### Hey there 👋 -->
 
-I am a software developer from Amsterdam.
-- :telescope: I’m studying information technology at Codam.
+I am a security consultant from Amsterdam.
+- :telescope: Finished my masters in cybersecurity at Codam College
 - :seedling: Exploring cryptography and binary analysis.
 - :zap: In my free time, I like to tinker with linux and do CTF (Capture The Flag) challenges.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noel-van-veldhuisen) [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:noelvanveldhuisen@protonmail.com)
@@ -16,7 +16,7 @@ I am a software developer from Amsterdam.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
