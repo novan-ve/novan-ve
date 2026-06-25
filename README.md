@@ -33,19 +33,19 @@ I am a security consultant from Amsterdam.
 ### 📌 Pinned Repositories
 
 <a href="https://github.com/novan-ve/famine">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin?username=novan-ve&repo=famine&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=15243C" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin?username=novan-ve&repo=famine&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=15243C " />
 </a>
 
 <a href="https://github.com/novan-ve/override">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin?username=novan-ve&repo=override&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=15243C" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin?username=novan-ve&repo=override&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=15243C " />
 </a>
 
 <a href="https://github.com/novan-ve/woody">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=novan-ve&repo=woody&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=15243C" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=novan-ve&repo=woody&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=15243C " />
 </a>
 
 <a href="https://github.com/novan-ve/ft_ssl">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin?username=novan-ve&repo=ft_ssl&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=15243C" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin?username=novan-ve&repo=ft_ssl&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=15243C " />
 </a>
 
 <br>
